@@ -1,0 +1,2 @@
+# textCNN_pytorch
+使用pytorch搭建textCNN实现中文文本分类
